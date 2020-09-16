@@ -1,0 +1,18 @@
+.instruction{
+    font-size: 1.3em;
+}
+
+.row-table{
+    font-size: 1.3em;
+    color: #212529;
+}
+
+.row-table span{
+    font-weight: bold;
+    margin: 0 .5em;
+}
+
+.error{
+    border: 2px solid #dc3545;
+    border-radius: .3em;
+}
